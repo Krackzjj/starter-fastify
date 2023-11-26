@@ -6,6 +6,7 @@ This is a starter template for Fastify, not the best but it works.
 
 - [x] Fastify
 - [x] Typescript
+- [x] Docker (DB)
 - [x] MariaDB
 - [x] Zod
 
